@@ -1,7 +1,7 @@
 {
   "organizationUrl": "https://dev.azure.com/sanko-artur/Automation-Tests-Running-with-Azure-DevOps/_apis/",
   "projectId": "6d34d5f0-7204-4e3f-8a9d-a6373925694c",
-  "planId": 3,
-  "suiteId": 5,
+  "planId": 4,
+  "suiteId": 6,
   "runName": "task10"
 }
